@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/shopReact/static/css/main.d74dca84.chunk.css",
+    "main.js": "/shopReact/static/js/main.65d2f1d8.chunk.js",
+    "main.js.map": "/shopReact/static/js/main.65d2f1d8.chunk.js.map",
+    "runtime-main.js": "/shopReact/static/js/runtime-main.5b1873f0.js",
+    "runtime-main.js.map": "/shopReact/static/js/runtime-main.5b1873f0.js.map",
+    "static/css/2.f52fb0be.chunk.css": "/shopReact/static/css/2.f52fb0be.chunk.css",
+    "static/js/2.df8a982f.chunk.js": "/shopReact/static/js/2.df8a982f.chunk.js",
+    "static/js/2.df8a982f.chunk.js.map": "/shopReact/static/js/2.df8a982f.chunk.js.map",
+    "index.html": "/shopReact/index.html",
+    "precache-manifest.cd2f41f5586e6e4664074ac6ee88f4fa.js": "/shopReact/precache-manifest.cd2f41f5586e6e4664074ac6ee88f4fa.js",
+    "service-worker.js": "/shopReact/service-worker.js",
+    "static/css/2.f52fb0be.chunk.css.map": "/shopReact/static/css/2.f52fb0be.chunk.css.map",
+    "static/css/main.d74dca84.chunk.css.map": "/shopReact/static/css/main.d74dca84.chunk.css.map",
+    "static/js/2.df8a982f.chunk.js.LICENSE.txt": "/shopReact/static/js/2.df8a982f.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/shopReact/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b1873f0.js",
+    "static/css/2.f52fb0be.chunk.css",
+    "static/js/2.df8a982f.chunk.js",
+    "static/css/main.d74dca84.chunk.css",
+    "static/js/main.65d2f1d8.chunk.js"
+  ]
+}
